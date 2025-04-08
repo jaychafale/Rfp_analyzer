@@ -107,7 +107,7 @@ The backend operates in the following order:
 
 ```
 
-git clone https://github.com/your-username/rfp-analyzer.git
+git clone https://github.com/jaychafale/Rfp_analyzer.git
 
 cd rfp-analyzer
 
