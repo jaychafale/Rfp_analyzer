@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+google-generativeai
+faiss-cpu
+numpy
+python-dotenv
+tqdm
+pydantic
+PyPDF2

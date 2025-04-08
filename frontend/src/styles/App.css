@@ -1,0 +1,58 @@
+/* src/styles/App.css */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f7f9fc;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+  }
+  
+  .upload-box {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .upload-box input {
+    margin: 1rem;
+  }
+  
+  .upload-box button {
+    padding: 0.6rem 1.2rem;
+    background: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .upload-box button:hover {
+    background: #357ABD;
+  }
+  
+  .results {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+  }
+  
+  .chunk-result {
+    margin-bottom: 1.5rem;
+  }
+  
+  .error {
+    background: #ffe0e0;
+    padding: 1rem;
+    color: #c00;
+    border-radius: 6px;
+  }
+  
